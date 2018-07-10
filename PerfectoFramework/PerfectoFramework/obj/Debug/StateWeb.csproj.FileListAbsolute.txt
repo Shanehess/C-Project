@@ -1,0 +1,44 @@
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\bin\Debug\Applications\Expedia\Tests\TestProperties\androidExpedia.prop
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\bin\Debug\Applications\Web\Tests\TestProperties\chromeSearch.prop
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\bin\Debug\Applications\Web\Tests\TestProperties\iphoneSearch.prop
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\bin\Debug\Applications\Expedia\Pages\PageProperties\_pageObjectsExpedia.prop
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\bin\Debug\Applications\Web\Tests\TestProperties\androidSearch.prop
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\bin\Debug\StateWeb.dll.config
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\bin\Debug\StateWeb.dll
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\bin\Debug\StateWeb.pdb
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\bin\Debug\NuGet.Core.dll
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\bin\Debug\WebDriver.dll
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\bin\Debug\WebDriver.Support.dll
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\bin\Debug\WebDriver.xml
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\bin\Debug\WebDriver.Support.xml
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\obj\Debug\StateWeb.dll
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\obj\Debug\StateWeb.pdb
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\bin\Debug\PerfectoLab.dll
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\bin\Debug\PerfectoLab.Extended.dll
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\bin\Debug\PerfectoLab.xml
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\bin\Debug\PerfectoLab.Extended.xml
+C:\Users\under\Documents\Visual Studio 2015\Projects\StateWeb\StateWeb\obj\Debug\StateWeb.csprojResolveAssemblyReference.cache
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\bin\Debug\Configuration\Android\PageProperties\page.prop
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\bin\Debug\Configuration\iOS\PageProperties\page.prop
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\bin\Debug\Configuration\iOS\iphoneSearch.prop
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\bin\Debug\Configuration\Android\androidSearch.prop
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\bin\Debug\Configuration\main.prop
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\bin\Debug\StateWeb.dll.config
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\bin\Debug\StateWeb.dll
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\bin\Debug\StateWeb.pdb
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\bin\Debug\Newtonsoft.Json.dll
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\bin\Debug\NuGet.Core.dll
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\bin\Debug\PerfectoFrameworkLibrary.dll
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\bin\Debug\ReportiumLib.dll
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\bin\Debug\WebDriver.dll
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\bin\Debug\WebDriver.Support.dll
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\bin\Debug\Newtonsoft.Json.xml
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\bin\Debug\PerfectoFrameworkLibrary.pdb
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\bin\Debug\WebDriver.xml
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\bin\Debug\WebDriver.Support.xml
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\obj\Debug\StateWeb.dll
+C:\Users\under\Desktop\stateweb-master-33a9792f2fc3acf3260cfe8bf18dc162ebcca67f\StateWeb\obj\Debug\StateWeb.pdb

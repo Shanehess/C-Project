@@ -1,0 +1,20 @@
+﻿#os type of device
+os=iOS
+#os version of device
+version=10.*|10.*.*
+#device manufacturer
+manufacturer=Apple
+#device id
+deviceid=C37BAE1934AE7DD0AE3355F77146C7A65579CAA3
+#device model
+model=
+#device description
+description=
+#browser tupe - if mobile set to mobileOS - if you are testing a native app set this to an empty value
+browser=mobileOS
+#additional capabilities can be passed and parsed in json format - {"test":"testvalue", "test2":"testValue2"}
+additionalCapabilities=
+#the directory to find the page property files
+configurationDirectory=iOS
+#Automation name either Appium or Perfecto
+automationName=Appium

@@ -1,0 +1,12 @@
+c:\users\under\documents\visual studio 2015\Projects\PerfectoFrameworkLibrary\PerfectoFrameworkLibrary\bin\Release\PerfectoFrameworkLibrary.dll
+c:\users\under\documents\visual studio 2015\Projects\PerfectoFrameworkLibrary\PerfectoFrameworkLibrary\bin\Release\PerfectoFrameworkLibrary.pdb
+c:\users\under\documents\visual studio 2015\Projects\PerfectoFrameworkLibrary\PerfectoFrameworkLibrary\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\under\documents\visual studio 2015\Projects\PerfectoFrameworkLibrary\PerfectoFrameworkLibrary\bin\Release\Newtonsoft.Json.dll
+c:\users\under\documents\visual studio 2015\Projects\PerfectoFrameworkLibrary\PerfectoFrameworkLibrary\bin\Release\ReportiumLib.dll
+c:\users\under\documents\visual studio 2015\Projects\PerfectoFrameworkLibrary\PerfectoFrameworkLibrary\bin\Release\WebDriver.dll
+c:\users\under\documents\visual studio 2015\Projects\PerfectoFrameworkLibrary\PerfectoFrameworkLibrary\bin\Release\WebDriver.Support.dll
+c:\users\under\documents\visual studio 2015\Projects\PerfectoFrameworkLibrary\PerfectoFrameworkLibrary\bin\Release\Newtonsoft.Json.xml
+c:\users\under\documents\visual studio 2015\Projects\PerfectoFrameworkLibrary\PerfectoFrameworkLibrary\bin\Release\WebDriver.xml
+c:\users\under\documents\visual studio 2015\Projects\PerfectoFrameworkLibrary\PerfectoFrameworkLibrary\bin\Release\WebDriver.Support.xml
+c:\users\under\documents\visual studio 2015\Projects\PerfectoFrameworkLibrary\PerfectoFrameworkLibrary\obj\Release\PerfectoFrameworkLibrary.dll
+c:\users\under\documents\visual studio 2015\Projects\PerfectoFrameworkLibrary\PerfectoFrameworkLibrary\obj\Release\PerfectoFrameworkLibrary.pdb

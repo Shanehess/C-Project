@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestSettings name="PerfectoFramework" id="e293abd4-745a-43f5-a831-2064f9305fc6" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Description>These are default test settings for a local test run.</Description>
+  <Deployment>
+    <DeploymentItem filename="PerfectoFramework\Configuration\" />
+    <DeploymentItem filename="PerfectoFramework\Configuration\main.prop" />
+  </Deployment>
+  <Execution parallelTestCount="5">
+    <Timeouts runTimeout="10000000" testTimeout="6000000" />
+    <TestTypeSpecific>
+      <UnitTestRunConfig testTypeId="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b">
+        <AssemblyResolution>
+          <TestDirectory useLoadContext="true" />
+          <RuntimeResolution>
+            <Directory path="%HOMEDRIVE%\testData" includeSubDirectories="true" />
+          </RuntimeResolution>
+        </AssemblyResolution>
+      </UnitTestRunConfig>
+    </TestTypeSpecific>
+    <AgentRule name="LocalMachineDefaultRole">
+    </AgentRule>
+  </Execution>
+  <Properties />
+</TestSettings>

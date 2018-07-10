@@ -1,0 +1,5 @@
+﻿#object locators can be set with the following syntax (objectname=locatortype=locatorValue) example (Page.Home.Signin.Btn=id=signin)
+#these are retrieved by the LocatorBy.Locator("Page") method or driver.FindElementByLocator("Home") method
+Home=//*[@class="customTopbarToggle show-for-small-only"]
+#property values can be set and retrieved from TestBase getProperties method 
+site=http://apple.com

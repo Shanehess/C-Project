@@ -1,0 +1,9 @@
+﻿#object locators can be set with the following syntax (objectname=locatortype=locatorValue) example (Page.Home.Signin.Btn=id=signin)
+#these are retrieved by the LocatorBy.Locator("Page") method or driver.FindElementByLocator("Home") method
+#if you wish you can omit the second parameter and it'll default to xpath automatically
+DeviceHelper.Chrome.Accept=//*[@resource-id="com.android.chrome:id/terms_accept"]
+#object locators can be set with the following syntax (objectname=locatortype=locatorValue) example (Page.Home.Signin.Btn=id=signin)
+#these are retrieved by the LocatorBy.Locator("Page") method or driver.FindElementByLocator("Home") method
+DeviceHelper.Chrome.NoThanks=id=com.android.chrome:id/negative_button
+#property values can be set and retrieved from TestBase getProperties method
+site=http://google.com

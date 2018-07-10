@@ -1,0 +1,20 @@
+﻿#os type of device
+os=Android
+#os version of device
+version=
+#device manufacturer
+manufacturer=
+#device id
+deviceid=CE091609AB24A50901
+#device model
+model=
+#device description
+description=
+#browser tupe - if mobile set to mobileOS - if you are testing a native app set this to an empty value
+browser=mobileOS
+#additional capabilities can be passed and parsed in json format - {"test":"testvalue", "test2":"testValue2"}
+additionalCapabilities=
+#the directory to find the page property files
+configurationDirectory=Android
+#Automation name either Appium or Perfecto
+automationName=Appium
